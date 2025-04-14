@@ -16,3 +16,16 @@
 
 ![My Image](/IITschool_DS|AI_certificate.jpg)
 
+
+
+
+
+
+
+
+
+
+
+![My Image](/future_tech_certificate.png)
+
+
