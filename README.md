@@ -6,3 +6,13 @@
 
 
 ![certificate](https://github.com/user-attachments/assets/014109f2-da51-497b-ac4a-1c9c23539ab5)
+
+
+
+
+
+
+
+
+![My Image](assets/IITschool_DS|AI_certificate.jpg)
+
