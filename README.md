@@ -14,5 +14,5 @@
 
 
 
-![My Image](assets/IITschool_DS|AI_certificate.jpg)
+![My Image](/IITschool_DS|AI_certificate.jpg)
 
